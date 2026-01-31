@@ -1,0 +1,29 @@
+<svg
+  width="120"
+  height="120"
+  viewBox="0 0 512 512"
+  xmlns="http://www.w3.org/2000/svg"
+  aria-label="Heart mascot"
+  role="img">
+
+  <!-- Heart shape -->
+  <path
+    d="M256 464
+       C256 464 32 304 32 176
+       C32 96 96 48 176 48
+       C224 48 256 80 256 80
+       C256 80 288 48 336 48
+       C416 48 480 96 480 176
+       C480 304 256 464 256 464Z"
+    fill="#ff4d6d"/>
+
+  <!-- Shine -->
+  <path
+    d="M176 96
+       C128 96 96 128 96 176
+       C96 208 112 240 144 272"
+    fill="none"
+    stroke="rgba(255,255,255,0.5)"
+    stroke-width="20"
+    stroke-linecap="round"/>
+</svg>
